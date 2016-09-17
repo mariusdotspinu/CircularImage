@@ -38,7 +38,7 @@ CircularImage mImage = new CircularImage(this); //Context
 
 mImage.
       .setSize(200,200)
-      .setText(Hello)
+      .setText("Hello")
       .setTextSize(30)
       .setTextColor(Color.BLUE)
       .setColorImage(R.color.colorAccent)
