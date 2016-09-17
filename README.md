@@ -75,7 +75,7 @@ mImage.
       .setTextSize(30)
       .setTextColor(Color.BLUE)
       .setColorImage(R.color.colorAccent)
-      .buildInto(img);
+      .buildInto(mImgView);
       
       //This should create an image like in the first example.
 ```
