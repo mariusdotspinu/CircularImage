@@ -7,7 +7,7 @@
 
 ##Instructions 
 
- * Include this line in you app's module ```build.gradle```
+ * Since this library is included in JCenter you need to put this line in you app's module ```build.gradle```
  
       ```compile 'com.example.marius.circularimage:circularimage:1.0.0'```
    
