@@ -51,4 +51,4 @@ For the second example we used an external source , so just replace ```.setColor
 
 Notice that ```.buildInto(ImageView imageView);``` should be the last function called so that the object can get its attributes and start processing the image.
 
-More on [Wiki](https://github.com/mariusdotspinu/CircularImage/wiki).
+More on [Wiki](https://github.com/mariusdotspinu/CircularImage/wiki/Docs).
